@@ -9,6 +9,8 @@
   "author": "Cory Forsyth <cory.forsyth@gmail.com> (http://coryforsyth.com/)",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.12.3"
+    "cookie-session": "^1.1.0",
+    "express": "^4.12.3",
+    "express-session": "^1.11.1"
   }
 }
